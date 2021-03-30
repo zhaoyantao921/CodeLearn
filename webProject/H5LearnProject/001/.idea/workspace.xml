@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5daa4448-1514-4550-831c-2348dbb2739e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/09表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/10表格的属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/11合并单元格练习.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/06超链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/06超链接.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/08列表.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/08列表.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +78,16 @@
       <workItem from="1616825272501" duration="9685000" />
       <workItem from="1616931302321" duration="30000" />
       <workItem from="1617002025198" duration="8015000" />
-      <workItem from="1617072781273" duration="6351000" />
+      <workItem from="1617072781273" duration="12322000" />
     </task>
+    <task id="LOCAL-00001" summary="表格学习">
+      <created>1617089131549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617089131549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +105,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="表格学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="表格学习" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="813" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617020161765">
       <screen x="0" y="0" width="1536" height="824" />
@@ -107,13 +118,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="493" y="67" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616826149668" />
-    <state x="705" y="132" key="Vcs.Push.Dialog.v2" timestamp="1617084691889">
+    <state x="705" y="132" key="Vcs.Push.Dialog.v2" timestamp="1617089152583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="705" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617084691889" />
-    <state x="666" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617021323095">
+    <state x="705" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617089152583" />
+    <state x="666" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1617089588764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="666" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617021323095" />
+    <state x="666" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617089588764" />
   </component>
 </project>
