@@ -19,10 +19,13 @@
 
 <!--锚点： name -->
 <!-- name 只能写在 a 里面 -->
-<a href="#me1" ,name="me2">跳转me1</a>
+<a href="#me2" id="me1">me1</a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<a href="#me2", name="me1">跳转me2</a>
+<a href="#me1" id="me2">me2</a>
 
+<!--id 和 name 都可以实现跳转-->
+<!--name是用来提交数据的，提供给表单用，可以重复；id则针对文档操作时候用，不能重复,如：document.getElementById().
+一个name可以同时对应多个控件，比如checkbox和radio，而id必须是全文档中唯一的.-->
 <!--空连接-->
 <a href="#">空链接</a>
 </body>

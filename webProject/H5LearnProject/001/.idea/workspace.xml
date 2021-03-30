@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5daa4448-1514-4550-831c-2348dbb2739e" name="Default Changelist" comment="" />
+    <list default="true" id="5daa4448-1514-4550-831c-2348dbb2739e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/09表格.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/06超链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/06超链接.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/08列表.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/08列表.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +37,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1qKPMzA2Y5v2QY40z0zAmC8UEZy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,20 +77,43 @@
       <option name="presentableId" value="Default" />
       <updated>1616825270275</updated>
       <workItem from="1616825272501" duration="9685000" />
+      <workItem from="1616931302321" duration="30000" />
+      <workItem from="1617002025198" duration="8015000" />
+      <workItem from="1617072781273" duration="6351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="813" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617020161765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="813" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1617020161765" />
     <state x="493" y="67" key="SettingsEditor" timestamp="1616826149668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="493" y="67" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616826149668" />
-    <state x="667" y="145" key="search.everywhere.popup" timestamp="1616826921423">
+    <state x="705" y="132" key="Vcs.Push.Dialog.v2" timestamp="1617084691889">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="667" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616826921423" />
+    <state x="705" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617084691889" />
+    <state x="666" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617021323095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="666" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617021323095" />
   </component>
 </project>
